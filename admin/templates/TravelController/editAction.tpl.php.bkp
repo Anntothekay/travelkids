@@ -1,0 +1,117 @@
+<script defer="defer" src="../javascript/dom_helper.js"></script>
+<script defer="defer" src="javascript/script.js"></script>
+<div class="traveledit">
+	<form action="index.php?controller=travel&amp;action=<?= clean($action) ?>" method="post">
+		<div class="flexwrap">
+			<fieldset class="flexitem">
+				<input
+					name="id" type="hidden" id="id"
+					value="<?= $travel->getId() ?>"
+				/>
+
+					<label for="title"><h6>Titel:</h6></label>
+					<input
+						name="title" id="title" type="text" maxlength="100"
+						value="<?= clean($travel->getTitle(), false) ?>"
+						required />
+
+					<label for="start"><h6>Beginn:</h6></label>
+					<input
+						name="start" id="start" type="date" min=<?= date('Y-m-d') ?>
+						value="<?= clean($travel->getStart()->format('Y-m-d'), false) ?>"
+						required />
+				
+					<label for="end"><h6>Ende:</h6></label>
+					<input
+						name="end" id="end" type="date" min=<?= date('Y-m-d') ?>
+						value="<?= clean($travel->getEnd()->format('Y-m-d'), false) ?>"
+						required />
+
+					<label for="price"><h6>Preis:</h6></label>
+					<input
+						name="price" id="price" type="number" min="0" max="9999"
+						value="<?= clean($travel->getPrice(), false) ?>"
+						required />	
+
+					<label for="teaser"><h6>Teaser:</h6></label>
+					<input
+						name="teaser" id="teaser" type="text" maxlength="255"
+						value="<?= clean($travel->getTeaser(), false) ?>"
+						required />
+
+					<label for="description"><h6>Beschreibung:</h6></label>
+					<textarea name="description" id="description" rows="15" cols="25"><?= clean($travel->getDescription(), false) ?></textarea>
+				
+			</fieldset>
+			<fieldset class="flexitem">
+					<h6>Region:</h6>
+
+					<?php foreach ($regions as $region): ?>
+						<input type="radio" 
+							   name="region" 
+							   id="<?= clean($region) ?>" 
+							   value="<?= clean($region->getId(), false) ?>"					
+							   <?php if ($travel->getRegion() === $region): ?>
+									checked="checked"
+							   <?php endif; ?>>		
+
+						<label for="<?= clean($region) ?>"><?= clean($region) ?></label><br />	
+					<?php endforeach; ?>
+					<br />
+
+					<h6>Kategorie:</h6>
+
+					<?php foreach ($categories as $category): ?>
+						<input type="radio" 
+							   name="category" 
+							   id="<?= clean($category) ?>" 
+							   value="<?= clean($category->getId(), false) ?>"					
+									<?php if ($travel->getCategory() === $category): ?>
+										checked="checked"
+									<?php endif; ?>
+							   >		
+
+						<label for="<?= clean($category) ?>"><?= clean($category) ?></label><br />	
+					<?php endforeach; ?>
+					<br />
+			</fieldset>
+
+			<fieldset class="flexitem">
+					<h6>Bild(er):</h6>
+
+					<div class="pictures">
+					<?php foreach ($pictures as $picture): ?>
+						<input type="checkbox"
+							   name="pictures[]"
+							   id="<?= clean($picture) ?>"
+							   value="<?= clean($picture) ?>"
+							   <?php if (in_array($picture, (explode(",", $travel->getPictures())))): ?>
+									checked="checked"
+							   <?php endif; ?>
+							   >
+						<label for="<?= clean($picture) ?>"><?= clean($picture) ?></label><br />
+					<?php endforeach; ?>
+					</div>
+			</fieldset>
+
+			<fieldset class="flexitem">
+					<h6>Thumbnail:</h6>
+
+					<div class="thumbnail">
+					<?php foreach ($thumbnails as $thumbnail): ?>
+						<input type="radio"
+							   name="thumbnail"
+							   id="thumbnail_<?= clean($thumbnail) ?>"
+							   value="<?= clean($thumbnail) ?>"
+							   <?php if ($thumbnail === $travel->getThumbnail()): ?>
+									checked="checked"
+							   <?php endif; ?>
+							   >
+						<label for="thumbnail_<?= clean($thumbnail) ?>"><?= clean($thumbnail) ?></label><br />
+					<?php endforeach; ?>
+					</div>
+			</fieldset>
+		</div>
+		<a href="index.php?controller=travel&amp;action=browse">Abbrechen</a> <input type="submit" class="button" value="Abschicken" />
+	</form>
+</div>

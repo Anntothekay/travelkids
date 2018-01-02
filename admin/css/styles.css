@@ -1,0 +1,151 @@
+@charset "utf-8";
+
+:root {
+	--main-color: cornflowerblue;
+}
+
+body {
+    background-color: #ecf1f2;
+}
+h5, h6 {
+	margin: .5em 0;
+}
+h6 {
+	font-size: 1rem;
+}
+p {
+	margin-bottom: .5em;
+}
+p > a {
+	font-size: 1em;
+}
+.button {
+	margin: .5em 0;
+}
+div.hamburger.button {
+	margin: 0;
+}
+.nobreak {
+	display: inline-block;	
+}
+.active {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/**********/
+/** Grid **/
+/**********/
+
+.grid {
+	grid-template-rows: 3em 2.6em auto auto;
+}
+
+/************/
+/** Header **/
+/************/
+
+
+#topnav .navlogo a {
+	font-family: var(--text-font);
+	font-size: 1.5em;
+	line-height: 1.8em;
+}
+#header::after {
+    display: none;
+}
+
+/****************/
+/** Navigation **/
+/****************/
+
+.topnavlink:last-of-type {
+	padding-right: .5em;
+}
+
+/*********************/
+/** Content Bereich **/
+/*********************/
+
+#main {
+	height: 100%;
+	padding: 1em .5em;
+}
+
+input {
+	margin-bottom: .5em;
+}
+input, textarea {
+	font-family: var(--text-font);
+}
+input[type="text"], input[type="password"], textarea {
+    display: block;
+}
+
+label {
+	font-family: var(--text-font);
+	font-size: .8em;
+}
+input[disabled] + label {
+	color: lightgrey; 
+}
+
+form > h6 {
+	margin-bottom: 0;
+}
+
+.errors, .message {
+	margin: 0;
+    margin-bottom: .5em;
+}
+
+.attribute {
+	margin-bottom: .5em;
+}
+.attribute img {
+	width: 200px;
+	height: auto;
+}
+
+.flexitem {
+	display: block;
+	flex: 1;
+	min-width: 16em;
+}
+.flexitem.pic {
+	flex: 2;
+}
+.pictures {
+	display: flex;
+	flex-flow: row wrap;
+}
+.picture img {
+	width: 100px;
+}
+.travel, .traveledit {
+	padding: .5em .8em;
+	border-radius: 1em;
+	box-shadow: 0px 0px 3px var(--main-color);
+}
+.traveledit fieldset {
+	border: none;
+}
+.traveledit .submit {
+}
+.travel:nth-of-type(odd), .traveledit {
+    background: white;
+}
+.travel:nth-of-type(even) {
+    background: #ecf1f2;
+}
+
+/*@media (max-width: 760px) {
+	#topnav .navlogo a {
+		font-size: 1.7em;
+	}
+	.navlogo {
+		margin-bottom: 1em;
+	}
+
+}*/
+

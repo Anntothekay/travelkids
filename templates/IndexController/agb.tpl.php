@@ -1,0 +1,53 @@
+<div class="content spacing agb">
+				<h4>AGB der GbR Gerke und Falter</h4>
+				<h6>1. Vertragsabschluß</h6>
+				<p>1.1 Vertragspartner ist die GbR Gerke und Falter (TravelKids).</p>
+				<p>1.2 Mit der Anmeldung nach Maßgabe der Ausschreibung, die über das Buchungsformular erfolgt bietet der Reiseteilnehmer den Abschluss
+				eines Reisevertrages verbindlich an. Die Anmeldung kann schriftlich, mündlich, fernmündlich oder durch Bildschirmsysteme (z.B. Internet)
+				vorgenommen werden. Der Reisevertrag kommt mit der Annahme durch TravelKids zustande. TravelKids erklärt die Annahme mittels einer
+				durch E-Mail oder per Post übersandten Buchungsbestätigung.</p>
+				<p>1.3 Weicht der Inhalt der Reisebestätigung vom Inhalt der Anmeldung ab, so liegt darin ein neues Angebot des Reiseveranstalters. Der
+				Reisevertrag kommt auf der Grundlage dieses neuen Angebotes zustande, wenn der Reiseteilnehmer diesem zustimmt. Die Zustimmung kann
+				durch ausdrückliche oder schlüssige Erklärung, wie zum Beispiel der Zahlung des Reisepreises, der Anzahlung oder des Antrittes der Reise
+				erfolgen.</p>
+				<p>1.4 Liegen die Reise- und Zahlungsbedingungen des Veranstalters dem Reiseteilnehmer bei einer telefonischen Anmeldung nicht vor, so werden
+				diese mit der Reisebestätigung/Rechnung übersandt. Die Reise- und Zahlungsbedingungen werden mit der Maßgabe der Regelung in 1.2
+				Bestandteil des Reisevertrages</p>
+				<p>1.5 Der Umfang der vertraglichen Leistungen ergibt sich verbindlich aus der Reisebestätigung/Rechnung des Reiseveranstalters, sowie aus der
+				Leistungsbeschreibung der dem jeweiligen Angebot zugrunde liegenden Produktausschreibung. Andere hotel- oder leistungsträgereigene
+				Leistungsbeschreibungen sind nicht maßgeblich. Zu mündlichen Nebenabreden sind die Mitarbeiter von TravelKids nicht befugt.</p>
+				<p>1.6 Bestandteil der von TravelKids angebotenen Leistung sind unter anderem Nutzungs- und Befahrungsrechte für bestimmte nichtöffentliche
+				Wege und /oder Privatgelände. Soweit der Kunde willentlich die von TravelKids vorgegebene Fahrtroute verlässt, so hat dies ausschließlich
+				auf Wegen und Straßen zu geschehen, die dem allgemeinen Verkehr zugänglich sind.</p>
+				<h6>2. Zahlung</h6>
+				<p>2.1 Es gelten die mit der Buchung bestätigten Preise und Leistungen. Die Zahlung erfolgt per Rechnung durch den Kunden auf ein von
+				TravelKids zu benennendes Bankkonto oder durch Zahlung im Reisebüro. Im Ausnahmefall kann sowohl die Anzahlung als auch die
+				Restzahlung bei Entgegennahme der Reiseunterlagen in bar im Reisebüro geleistet werden.</p>
+				<p>Der Zahlungsweg per Rechnung ist nur möglich bei Buchungen bis 2 Tage vor dem geplanten Abreisetag. Sowohl Auslands- als auch
+				Überweisungsgebühren gehen zu Lasten des Kunden.</p>
+                <p>2.2 Mit Erhalt der schriftlichen Reisebestätigung und je nach Reiseprodukt der Aushändigung des Sicherungsscheins wird in jedem Fall eine Anzahlung von 20% des Reisepreises fällig, mindestens € 50,- pro Person. Versicherungsprämien und Eintrittskarten sind komplett und sofort bei Buchung fällig.</p>
+                <p>2.3 Die Restzahlung ist 30 Tage vor Reiseantritt ohne nochmalige Aufforderung zu leisten.</p>
+                <p>2.4 Gehen der Anzahlungsbetrag oder die Restzahlung nicht rechtzeitig innerhalb von 5 Tagen nach Datum der Buchungsbestätigung/Rechnung ein, oder verweigert eine Bank den Ausgleich der fälligen Zahlung und wird auch nach Aufforderung unter Fristsetzung keine Zahlung geleistet, ist TravelKids berechtigt, vom Vertrag zurückzutreten. In diesem Fall werden die Rücktrittskosten (Stornogebühren) aus Ziffer 5 erhoben.</p>
+                <p>2.5 Eine Reiseanmeldung ab 30 Tage vor Reiseantritt wird nur unter der Bedingung akzeptiert, dass der gesamte Reisepreis sofort mit Erhalt der Reisebestätigung fällig ist und bei der Anmeldung per Rechnung sichergestellt wird. Der jeweils fällige Betrag muss innerhalb von 5 Tagen nach Datum der Buchungsbestätigung/Rechnung gezahlt sein.</p>
+                <p>2.6 Bei Buchungen ab 10 Tage vor dem geplanten Reiseantritt wird der gesamte Reisepreis/Rechungsbetrag und ggf. zu entrichtender Versicherungsbeiträge mit Zustandekommen des Reisevertrags sofort fällig.</p>
+                <p>2.7 Bei Verweigerung des Zahlungsausgleichs durch eine Bank wird außerdem eine Bearbeitungsgebühr in Höhe von € 20,- pro Buchung erhoben. Dem Kunden bleibt der Nachweis, dass kein oder ein erheblich geringerer Schaden entstanden ist, vorbehalten.</p>
+                <h6>3. Reisedokumente</h6>
+                <p>3.1 Die Reisedokumente gehen dem Anmelder der Reise für alle Reiseteilnehmer per E-Mail oder per Post zu bzw. liegen im Reisebüro zur Abholung bereit. Sollten die Reisedokumente dem Anmelder wider Erwarten nicht bis spätestens sieben Tage vor Reiseantritt zugegangen bzw. abgeholt worden sein, hat sich dieser unverzüglich mit TravelKids in Verbindung zu setzen.</p>
+                <p>3.2 Müssen aus Gründen, die TravelKids nicht zu vertreten hat, neue Reiseunterlagen ausgestellt werden, so erheben wir eine Bearbeitungsgebühr in Höhe von € 20,- pro Ersatzdokument.</p>
+                <h6>4. Umbuchung, Leistungs- und Preisänderungen</h6>
+                <p>4.1 Werden auf Wunsch des Anmelders oder eines anderen Teilnehmers der Reise nach der Buchung der Reise Änderungen in Bezug auf den Reisetermin, das Reiseziel, die Unterkunft oder die Beförderungsart bis 30 Tage vor Reiseantritt vorgenommen (Umbuchung), ist TravelKids berechtigt, pro Reiseteilnehmer ein Bearbeitungsentgelt von € 25,- je Reiseteilnehmer zu erheben. Ergeben sich aus Folge einer solchen
+                Umbuchung für Mitreisende höhere Reisepreise, so ist die Preisdifferenz vom Reiseteilnehmer zu zahlen. Umbuchungen, die nach Ablauf der Frist von 30 Tagen vor Reiseantritt erfolgen, gelten grundsätzlich als Rücktritt mit nachfolgender Neuanmeldung. Umbuchungen müssen TravelKids schriftlich, fernschriftlich oder fernmündlich unter Angabe der Buchungsnummer vor dem Reiseantritt während der Geschäftszeiten (Mo. bis Fr. 09.00 bis 18.00 Uhr) an die auf der Buchungsbestätigung/Rechnung angegebene Adresse, bzw. Telefon- oder Telefaxnummer mitgeteilt werden.</p>
+                <p>4.2 Der Reiseveranstalter ist berechtigt, aus organisatorisch notwendigen und nicht vorhersehbaren Gründen einzelne Leistungen zu ändern. Von den Leistungsänderungen wird der Reiseveranstalter den Reiseteilnehmer unverzüglich unterrichten und ihn mit einer Erklärungsfrist von zehn Tagen alternativ kostenlose Umbuchung oder kostenlosen Rücktritt anbieten, sofern die Änderungen nicht lediglich geringfügig sind. Ein Kündigungsrecht des Reiseteilnehmers bleibt unberührt.</p>
+                <p>4.3 Liegt der vereinbarte Abreisetermin mehr als vier Monate nach Vertragsschluss, behält sich TravelKids vor, den vertraglich vereinbarten Reisepreis zu erhöhen, um einer Erhöhung der Abgaben für bestimmte Leistungen Rechnung zu tragen. Das Preiserhöhungsverlangen ist nur bis zum 21. Tag vor dem vereinbarten Abreisetermin zulässig. Eine Preisänderung ist nur in dem Umfang möglich, wie sich nachweisbar nach
+                Abschluss des Reisevertrags eingetretene Preisänderungen des in der Ausschreibung genannten Abgabenanteils oder der für die Reise geltenden Wechselkurse auf den jeweiligen konkret berechneten Preisanteil des vertraglich vereinbarten Reisepreises auswirken. Sowohl bei einer Preiserhöhung um mehr als 5 % des Reisepreises als auch bei einer erheblichen Änderung einer wesentlichen Reiseleistung kann der Reisende
+                vom Vertrag zurücktreten, oder, wie bei einer zulässigen Reiseabsage durch TravelKids, die Teilnahme an einer mindestens gleichwertigen anderen Reise verlangen, wenn TravelKids in der Lage ist, eine solche Reise aus seinem Angebot ohne Mehrpreis anzubieten. Der Reisende ist verpflichtet, diese Rechte unverzüglich nach dem Erhalt der Änderungsmitteilung gegenüber der TravelKids geltend zu machen. Hierzu empfehlen wir die Schriftform.</p>
+                <p>4.4 Aus zwingenden Gründen nicht in Anspruch genommene Leistungen können zu Teilerstattungen führen, sofern und soweit der Leistungsträger eine entsprechende Gutschrift erteilt und hierüber eine gemeinsame Niederschrift mit einem Vertreter des Leistungsträgers gefertigt wurde.</p>
+                <p>4.5 Bis zum Reisebeginn kann der Reiseteilnehmer sich nach Mitteilung an TravelKids durch eine andere geeignete Person ersetzen lassen. Das Bearbeitungsentgelt beträgt € 25,- pro Person. Für Änderungen, die nach bereits erfolgter Erstellung der Reiseunterlagen vorgenommen werden, sind wir berechtigt die entstandenen Mehrkosten zu berechnen, mindestens jedoch € 50,- pro Person.
+                <p>4.6 In sämtlichen Fällen der Umbuchung sowie von Leistungs- u. Preisänderungen bleibt dem Reisekunden der Nachweis nicht entstandener oder wesentlich niedriger Kosten unbenommen.</p>
+                <h6>5. Rücktritt seitens des Reiseteilnehmers</h6>    
+                <p>...</p>
+				<h6>6. Widerruf</h6>
+				<p>Sie haben das Recht, binnen vierzehn Tagen ab dem Tag des Vertragsabschlusses ohne Angabe von Gründen den Vertrag zu widerrufen. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns Reisebüro TravelKids, Musterstraße 12, 90402 Nürnberg, mail@travelkids.de, mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, welches jedoch nicht vorgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.</p>
+				<p><strong>Folgen des Widerrufs</strong></p>
+				<p>Wenn Sie diesen Kaufvertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.</p>
+			</div>
